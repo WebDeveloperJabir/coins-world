@@ -1,1 +1,11 @@
-My first website.
+My first website. 
+
+Note that some files are added later for the suitability of deployment and favicon.
+The foure HTML files are native here, they are created first. But the vercel.json, Readme.md, favicon.svg and Note.txt (current file) are added later.
+
+Their purposes: 
+
+Readme.md    -  For uploading the project in Github
+favicon.svg  -  This is for the website's favicon. This icon was created when I started this project, but was not                          connected then
+vercel.json  -  For deploying in Vercel
+Note.txt     -  To inform this informations to you :)
